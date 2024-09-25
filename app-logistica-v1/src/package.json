@@ -10,8 +10,5 @@
     "type": "git",
     "url": "https://github.com/FabianMoya04/App_Logistica.git"
   },
-  "private": true,
-  "dependencies": {
-    "components": "file:"
-  }
+  "private": true
 }
