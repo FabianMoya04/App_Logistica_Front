@@ -1,13 +1,7 @@
 // App.js
 import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Sidebar from './Components/Sidebar';
-import Dashboard from './Components/Dashboard';
-import Productos from './Components/Productos';
-import Categorias from './Components/Categorias';
-import Almacen from './Components/Almacen';
-import Pedidos from './Components/Pedidos';
-import Miembros from './Components/Miembros';
+
 import './App.css';
 
 function App() {
