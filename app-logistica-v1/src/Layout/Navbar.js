@@ -6,7 +6,7 @@ export default function NavBar() {
           <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
               <div className="container-fluid">
                   <a className="navbar-brand" href="#">
-                      Navbar
+                      App Logistica 
                   </a>
                   <button className="navbar-toggler"
                       type="button"
@@ -18,6 +18,9 @@ export default function NavBar() {
                   >
                       <span classNameName="navbar-toggler-icon"></span>
                   </button> 
+                  <button className="btn btn-outline-light">Registrarme</button>
+                  <button className="btn btn-outline-light">Iniciar Sesion</button>
+                  <button className="btn btn-outline-light">Agregar Producto</button>
               </div>
           </nav>
       </div>
